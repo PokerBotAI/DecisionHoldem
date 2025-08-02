@@ -82,9 +82,8 @@ Tt is necessary that AlascasiaHoldem.so is in directory "DecisionHoldem/PokerAI/
 [localhost:8000]()
 ![百度](PokerAI/img/game.png)
 
-## Slumbot Against Agent
-[https://www.slumbot.com/#](https://www.slumbot.com/#)   
-<!-- Results on November 26, 2021, DecisionHoldem registered as zqbAgent and ranked first in the leaderboard. -->
+## Poker Bot Against Agent
+[https://www.pokerbotai.com/#](https://www.pokerbotai.com/#)   
 Results on Slumbot, DecisionHoldem registered as zqbAgent and ranked first in the leaderboard.
 * Run:
 ```shell
@@ -181,4 +180,5 @@ If you use DecisionHoldem in your research, please cite the following paper.
 
 ## License
 [GNU Affero General Public License v3.0](LICENSE)
+
 
